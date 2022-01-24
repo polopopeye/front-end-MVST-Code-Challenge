@@ -13,6 +13,6 @@ module.exports = {
     ];
   },
   images: {
-    domains: ['localhost'],
+    domains: ['localhost', 'https://aqueous-everglades-48092.herokuapp.com'],
   },
 };
